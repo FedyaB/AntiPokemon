@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Анти-Покемон</string>
+    <string name="str_depth">Кафедра Прикладной Математики</string>
+    <string name="str_university1">Санкт-Петербургский Политехнический</string>
+    <string name="str_university2">университет Петра Великого</string>
+    <string name="str_toweb">На сайт</string>
+    <string name="str_start">Старт</string>
+    <string name="app_welcome">Добро пожаловать в приложение \'Анти-Покемон\'!\n\nГлавной задачей является нахождение всех объектов, расположенных в красных зонах на карте.\nВойдите в одну из этих зон, чтобы получить более подробную информацию об объекте.\nОбъект считается найденным, если подойти к нему ближе чем на 30 метров.</string>
+    <string name="app_welcome_ok">Понял</string>
+    <string name="app_welcome_caption">Добро пожаловать!</string>
+    <string name="app_tracking_decline">Приложение не может работать без разрешения на отслеживание ваших координат.\n\nВы перенаправлены на начальный экран.</string>
+    <string name="app_tracking_permission_caption">Зачем нам ваши GPS-координаты?</string>
+    <string name="app_tracking_permission">Приложению необходимо вычислять расстояние между вами и искомыми объектами\n\nПожалуйста, разрешите использование GPS-координат в этот раз.</string>
+    <string name="app_target_1_info">Фонтан около 1 корпуса Политехнического университета.</string>
+    <string name="app_target_1_caption">Фонтан</string>
+    <string name="app_target_2_info">Памятник, находящийся близко к входу в главное здание Политехнического университета</string>
+    <string name="app_target_2_caption">Памятник погибшим политехникам</string>
+    <string name="app_found_info">Вы нашли цель</string>
+    <string name="app_found_caption">Поздравляем!</string>
+    <string name="app_all_found_caption">Поздравляем!</string>
+    <string name="app_all_found_info">Все цели найдены.</string>
+    <string name="app_target_4_info">Памятник Петру и Февронии, торжественно открытый в 2016 году</string>
+    <string name="app_target_3_info">Памятник артезианской скважине, использовавшейся во время блокады Ленинграда</string>
+    <string name="app_target_5_info">Наиболее напоминающая Хогвартс часть Политехнического университета</string>
+    <string name="app_target_6_info">Памятник герою Октябрьской революции</string>
+    <string name="app_target_7_info">Памятник летчикам. Установлен в западной части парка "Сосновка"</string>
+    <string name="app_target_8_info">Памятник мужеству ленинградцев, отстоявших город во время великой отечественной войны</string>
+    <string name="app_target_4_caption">Пётр и Феврония</string>
+    <string name="app_target_3_caption">Артезианская скважина</string>
+    <string name="app_target_5_caption">Гидробашня</string>
+    <string name="app_target_6_caption">Памятник Чапаеву</string>
+    <string name="app_target_7_caption">Памятник летчикам</string>
+    <string name="app_target_8_caption">Памятник мужеству ленинградцев</string>
+    <string name="app_ps_decline_caption">Google Play Services недоступны!</string>
+    <string name="app_ps_decline">Приложение не может работать без установленных Google Play Services, так как приложение использует Google Maps SDK.</string>
+    <string name="button_closest_target">Ближайшая цель</string>
+    <string name="button_my_location">Я</string>
+    <string name="button_stop">Стоп</string>
+    <string name="button_resume">Идти</string>
+</resources>

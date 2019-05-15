@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:buttonBarButtonStyle">@style/ButtonStyle</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:background">#5e7974</item>
+    </style>
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">#BBAA07</item>
+    </style>
+</resources>

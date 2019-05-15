@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Anti-Pokemon</string>
+    <string name="str_amd_url" translatable="false">https://amd.spbstu.ru</string>
+    <string name="str_depth">Applied Math Department</string>
+    <string name="str_university1">Peter the Great St.Petersburg</string>
+    <string name="str_university2">Polytechnic University</string>
+    <string name="str_toweb">To the web site</string>
+    <string name="str_start">Start</string>
+    <string name="app_welcome">Welcome to the Anti Pokemon application!\n\nThe main target is to find all of the objects located in red areas on the map.\nStep into one of those to get information about the object.\nYou need to get closer than 30 meters to the object to consider it to be found.</string>
+    <string name="app_welcome_ok">Got it</string>
+    <string name="app_welcome_caption">Welcome!</string>
+    <string name="app_tracking_decline_caption" translatable="false">:(</string>
+    <string name="app_ok" translatable="false">OK</string>
+    <string name="app_tracking_decline">The application can\'t run without GPS tracking permission.\n\nYou\'ve returned back to the intro screen.</string>
+    <string name="app_tracking_permission_caption">Why do we need your GPS coordinates?</string>
+    <string name="app_tracking_permission">The application needs to track the distance from you to the objects you looking for.\n\nPlease, give your permission this time</string>
+    <string name="app_target_1_info">A fontain near the 1st housing of SPbPU</string>
+    <string name="app_target_1_caption">A fontain</string>
+    <string name="app_target_2_info">A monument near the entrance to the main building</string>
+    <string name="app_target_2_caption">Heroes of the Polytech monument</string>
+    <string name="app_found_info">You\'ve found the object</string>
+    <string name="app_found_caption">Congratulations!</string>
+    <string name="app_all_found_caption">Congratulations!</string>
+    <string name="app_all_found_info">All targets have been found.</string>
+    <string name="app_target_3_info">A monument in honor of artesian well used during the blockade of WW2</string>
+    <string name="app_target_4_info">A monument in honor of Petr and Fevronia. Opened in 2016.</string>
+    <string name="app_target_5_info">Hogwarts resembling part of the Polytechnic university</string>
+    <string name="app_target_6_info">A monument in honor of the October revolution hero</string>
+    <string name="app_target_7_info">A monument in honor of aviators. It is located in the western part of Sosnovka park </string>
+    <string name="app_target_8_info">A monument in honor of Leningrad citizens who did not surrender in the WW2</string>
+    <string name="app_target_4_caption">Petr and Fevronia monument</string>
+    <string name="app_target_3_caption">Artesian well</string>
+    <string name="app_target_5_caption">A tower</string>
+    <string name="app_target_6_caption">Chapaev monument</string>
+    <string name="app_target_7_caption">Aviators monument</string>
+    <string name="app_target_8_caption">In honor of Leningrad citizens\' bravery</string>
+    <string name="app_ps_decline_caption">Google Play Services are unavailable!</string>
+    <string name="app_ps_decline">The application cannot work without Google Play Services installed since it uses Google Maps SDK.</string>
+    <string name="button_closest_target">Closest target</string>
+    <string name="button_my_location">Me</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_resume">Resume</string>
+</resources>
